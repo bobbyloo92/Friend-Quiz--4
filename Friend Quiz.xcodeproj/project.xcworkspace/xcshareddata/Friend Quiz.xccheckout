@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>A4C21570-AA7B-491C-9A23-AB013364E953</string>
+	<string>642964C2-5294-466F-A269-1409D72E55E9</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Friend Quiz</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>10675621-D18C-4FCC-BCAE-9B13890C937F</key>
-		<string>https://github.com/YourdonJou/Friend-Quiz-II.git</string>
+		<key>F919233E-D201-4B47-AF1D-CA8947FAE184</key>
+		<string>https://github.com/bobbyloo92/Friend-Quiz--4.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Friend Quiz.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>10675621-D18C-4FCC-BCAE-9B13890C937F</key>
+		<key>F919233E-D201-4B47-AF1D-CA8947FAE184</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/YourdonJou/Friend-Quiz-II.git</string>
+	<string>https://github.com/bobbyloo92/Friend-Quiz--4.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>10675621-D18C-4FCC-BCAE-9B13890C937F</string>
+	<string>F919233E-D201-4B47-AF1D-CA8947FAE184</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>10675621-D18C-4FCC-BCAE-9B13890C937F</string>
+			<string>F919233E-D201-4B47-AF1D-CA8947FAE184</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Friend-Quiz-II</string>
+			<string>Friend Quiz 4</string>
 		</dict>
 	</array>
 </dict>
